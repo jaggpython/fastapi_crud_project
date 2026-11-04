@@ -3,6 +3,5 @@ uvicorn
 sqlalchemy
 pydantic
 email-validator
-streamlit
 requests
 pandas
